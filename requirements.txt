@@ -1,5 +1,5 @@
 django==4.2.0
-djangorestframework
-mptt==0.16.0
+# djangorestframework
+# mptt==0.16.0
 black
 flake8
